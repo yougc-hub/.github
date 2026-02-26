@@ -1,1 +1,1 @@
-# .github
+# The YouGC Hub project

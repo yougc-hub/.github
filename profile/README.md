@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# The YouGC Hub project
 <!--
 
 **Here are some ideas to get you started:**
